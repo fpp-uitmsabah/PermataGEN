@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Portfolio Enhancer",
+  "description": "A portfolio page that uses the Gemini API to generate beautiful business cards with QR codes, generate images from text prompts with Imagen, and edit images with text commands.",
+  "requestFramePermissions": []
+}
